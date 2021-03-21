@@ -1,0 +1,30 @@
+.game-field {
+  background-color: orange;
+  border-radius: 3px;
+  min-height: 10vh;
+  margin: 1px;
+  line-height: 10vh;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+}
+
+.btn {
+  margin: 10px;
+}
+
+.target {
+  background-color: green;
+  color: white;
+  font-size: 24pt;
+  text-align: center;
+  cursor: pointer;
+}
+
+.miss {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  font-size: 10pt;
+}
